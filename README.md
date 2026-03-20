@@ -1,4 +1,4 @@
-# Transcription Audio-Video avec Whisper et Google Speech Recognition
+# Speech TO Text Video Audio
 
 Ce projet permet d'extraire l'audio d'un fichier vidéo et de le transcrire en texte à l'aide des modèles de reconnaissance vocale Whisper ou Google Speech Recognition. Les transcriptions sont enregistrées dans un fichier texte avec des sauts de ligne pour une meilleure lisibilité.
 
